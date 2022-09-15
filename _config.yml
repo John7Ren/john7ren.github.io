@@ -22,8 +22,8 @@ navigation:
     url: /resume
   - title: Research
     url: /research
-  - title: Photography
-    url: /photography
+  - title: Journey
+    url: /journey
 
 social:
   github: john7ren
