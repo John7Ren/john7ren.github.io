@@ -1,7 +1,7 @@
-title: Long Haul
-description: Long Form Jekyll theme built with SASS / COMPASS / SUSY
+title: Jiongqiu Ren
+description: Physical Oceanographer
 
-url: https://long-haul.netlify.app
+url: https://john7ren.github.io
 paginate_path: "blog/page:num/"
 permalink: blog/:title/
 
@@ -11,24 +11,28 @@ permalink: blog/:title/
 markdown: kramdown
 highlighter: rouge
 plugins: [jekyll-paginate]
-paginate: 5
+paginate: 2
 
 navigation:
-  - title: Home
+  - title: Blog
     url: /index.html
-  - title: About
+  - title: About Me
     url: /about
-  - title: Contact
-    url: /contact
+  - title: Résumé
+    url: /resume
+  - title: Research
+    url: /research
+  - title: Photography
+    url: /photography
 
 social:
-  github: brianmaierjr
-  twitter: brianmaierjr
-  facebook: brianmaierjr
-  email: brimaidesigns@gmail.com
-  linkedin: brianmaierjr
+  github: john7ren
+  twitter: Jiong7Ren
+  #facebook: brianmaierjr
+  email: jiong7.ren@gmail.com
+  linkedin: www.linkedin.com/in/jiongqiuren/
 
 google_analytics: "UA-58263416-1"
 
 disqus:
-    shortname: brianmaierjr
+    shortname: johnqiu
